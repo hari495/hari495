@@ -13,7 +13,7 @@
 - 💼 **Incoming:** Definity
 - 🔭 **Currently:** Developing autonomy systems with the Waterloo Aerial Robotics Group (WARG).
 - 🌱 **Exploring:** Real-time collaboration (CRDTs), LLM integrations, and advanced data structures.
-- ⏳ **Coding since:** [Insert Year, e.g., 2019]
+- ⏳ **Coding since:** 2004
 
 ## 💻 Tech Stack
 
