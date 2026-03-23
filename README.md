@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hari 👋</h1>
-<h3 align="center">CS @ UWaterloo '28 | Incoming @ Definity | Autonomy @ WARG</h3>
+<h3 align="center">CS @ UWaterloo '28 | Incoming @ Definity | SWE @ Hands AI | Cloud @ Watonomous | Autonomy @ WARG</h3>
 <p align="center">I love building scalable systems and bringing complex ideas to life. Always open to new opportunities.</p>
 
 <p align="center">
