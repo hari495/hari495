@@ -1,6 +1,6 @@
 # Hi, I'm Hari 👋
 
-CS @ UWaterloo '28 | Incoming @ Definity | Autonomy @ WARG
+CS @ UWaterloo '28 | Incoming @ Definity | SWE @ Hands AI | Cloud @ Watonomous | Autonomy @ WARG 
 
 I love building scalable systems and bringing complex ideas to life. Always open to new opportunities.
 
