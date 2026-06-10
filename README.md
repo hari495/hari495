@@ -6,9 +6,11 @@
 
 *I build things that help real people. Starting with a laptop was the only option — turns out that's enough.*
 
-[![Portfolio](https://img.shields.io/badge/harikolla.ca-000000?style=flat-square&logo=safari&logoColor=white)](https://harikolla.ca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-kolla-934471330/)
-[![Email](https://img.shields.io/badge/hmkolla@uwaterloo.ca-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hmkolla@uwaterloo.ca)
+[![Portfolio](https://img.shields.io/badge/harikolla.ca-8B0000?style=flat-square&logo=safari&logoColor=white)](https://harikolla.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B22222?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-kolla-934471330/)
+[![Email](https://img.shields.io/badge/hmkolla@uwaterloo.ca-DC143C?style=flat-square&logo=gmail&logoColor=white)](mailto:hmkolla@uwaterloo.ca)
+
+`open to:` **cloud · infra · devops · swe · mlops** `— summer & fall 2027`
 
 </div>
 
@@ -27,12 +29,12 @@
 
 ## Impact that matters
 
-```
-↓ 70%   AWS compute costs at Definity    → 118 idle hours/week eliminated
-↑ 40%   RAG retrieval accuracy           → 7,000+ items, hybrid pgvector + BM25
-↓ 80%   Non-compliant recommendations    → GPT-4o-mini post-retrieval filtering
-× 10    Vector search precision          → FlashRank re-ranking + HNSW indexing
-50+     Daily active users               → GooseOdyssey Chrome extension
+```diff
+- 70%   AWS compute costs at Definity    → 118 idle hours/week eliminated
++ 40%   RAG retrieval accuracy           → 7,000+ items, hybrid pgvector + BM25
+- 80%   non-compliant recommendations    → GPT-4o-mini post-retrieval filtering
++ 10x   vector search precision          → FlashRank re-ranking + HNSW indexing
+! 25+   daily active users               → Goosedyssey Chrome extension
 ```
 
 ---
@@ -68,8 +70,10 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari495&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari495&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hari495&show_icons=true&theme=transparent&hide_border=true&title_color=DC143C&text_color=C3D1D9&icon_color=DC143C" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari495&layout=compact&theme=transparent&hide_border=true&title_color=DC143C&text_color=C3D1D9" height="150" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari495&theme=dark&hide_border=true&background=00000000&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" height="150" />
 </div>
 
 ---
