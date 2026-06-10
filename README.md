@@ -39,7 +39,7 @@
 
 ## Projects
 
-**[GooseOdyssey](https://github.com/hari495/GooseOdyssey)** — Chrome extension that transforms UWaterloo's exam schedule into something actually readable. Color-coded midterms, finals, reminders. 50+ students use it daily. Some offered to donate. That's the one I'm most proud of.
+**[Goosedyssey]([https://github.com/hari495/GooseOdyssey](https://chromewebstore.google.com/detail/goosedessey/jlbdageklahnfedmlblfbmickaajkbha))** — Chrome extension that transforms UWaterloo's exam schedule into something actually readable. Color-coded midterms, finals, reminders. 25+ students use it daily. Some offered to donate. That's the one I'm most proud of.
 
 **[Snowspace](https://github.com/hari495/Snowspace)** — Geospatial analysis tool using Google Earth Engine + Sentinel-2 satellite data. Custom KD-tree over 30k+ coordinates → O(log n) lookup, ~28k ops/sec. Top 5 / 200+ teams at BramHacks. Attracted VC interest.
 
