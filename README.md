@@ -81,3 +81,5 @@
 <div align="center">
   <sub>Reading ~2hrs/day. Building constantly. Always looking for the harder problem.</sub>
 </div>
+
+![](https://komarev.com/ghpvc/?username=hari495)
